@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello World 👋
 
-<!--
-**Abizhar-id/Abizhar-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am **Abizhar-id**.
 
-Here are some ideas to get you started:
+I am currently focusing on **Computer Networking (Network Engineering)** and **Programming**. Some of the projects I am working on include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Current Projects
+
+- **Cisco Packet Tracer**  
+  Designing and implementing network topologies for simulation and enhancing my CCNA skills.
+
+- **Python Programming**  
+  Developing Python-based programs to support network automation, learning fundamental programming concepts, and strengthening algorithmic logic.
+
+---
+
+### ✨ About Me
+
+- 🔭 Focused on **computer networks and Python programming**
+- 🌱 Currently learning **Cisco, MikroTik, and Python software development**
+- 💡 Interested in **network automation, cyber security, and emerging technologies**
+
+---
+
+### 📫 Contact
+
+If you want to collaborate or discuss further, feel free to contact me via:
+
+- GitHub: [Abizhar-id](https://github.com/Abizhar-id)
+
+---
+
+Thank you for visiting my repository! ✨
