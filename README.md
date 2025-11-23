@@ -1,5 +1,3 @@
-# Hello World 👋
-
 Hi, I am **Abizhar-id**.
 
 I am currently focusing on **Computer Networking (Network Engineering)** and **Programming**. Some of the projects I am working on include:
